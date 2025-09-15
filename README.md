@@ -36,5 +36,3 @@ npm run dev
 
 Open the printed **localhost URL** in your browser.
 
-```
-
