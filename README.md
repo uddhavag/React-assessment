@@ -1,14 +1,11 @@
-Understood 👍 — here’s the **final minimal README.md** you can directly paste:
-
-````markdown
 # Job Listing Board
 
-A simple React app built with **Vite**.  
+A simple React app 
 It fetches jobs from a mock API, displays them in cards, allows real-time search, and lets you save/remove jobs.  
 
 ---
 
-##  Features
+#  Features
 - Fetch and display jobs from a mock API (`jsonplaceholder.typicode.com/posts`)
 - Each job card shows **title, company, and location**
 - Search bar to filter jobs by **title** or **company**
