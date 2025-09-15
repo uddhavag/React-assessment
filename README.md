@@ -18,8 +18,8 @@ It fetches jobs from a mock API, displays them in cards, allows real-time search
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/uddhavag/React-assessment.git
+cd React-assesment
 ````
 
 ### 2. Install dependencies
