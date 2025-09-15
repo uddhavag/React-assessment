@@ -1,12 +1,43 @@
-# React + Vite
+Understood 👍 — here’s the **final minimal README.md** you can directly paste:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# Job Listing Board
 
-Currently, two official plugins are available:
+A simple React app built with **Vite**.  
+It fetches jobs from a mock API, displays them in cards, allows real-time search, and lets you save/remove jobs.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+##  Features
+- Fetch and display jobs from a mock API (`jsonplaceholder.typicode.com/posts`)
+- Each job card shows **title, company, and location**
+- Search bar to filter jobs by **title** or **company**
+- "Save Job" button to store jobs in a **Saved Jobs** section
+- Basic responsive design with CSS Grid
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+````
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the development server
+
+```bash
+npm run dev
+```
+
+Open the printed **localhost URL** in your browser.
+
+```
+

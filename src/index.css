@@ -1,9 +1,11 @@
-/* basic reset + typography */
-* { box-sizing: border-box; }
-html, body, #root { height: 100%; }
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
   color: #0f172a;
   background: #f8fafc;
   line-height: 1.5;
